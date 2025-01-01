@@ -1,5 +1,5 @@
 ﻿namespace ControlShopWebsite.Models;
 
-public class Catagories
+public class Categories
 {
 }
